@@ -54,5 +54,5 @@ This repository contains:
 ---
 
 ## 👨‍💻 Creator
-**Om Atulith**  
+**Omatulith**  
 B.Tech Student | AI Systems Builder | No-Code AI Developer
